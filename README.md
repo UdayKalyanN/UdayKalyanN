@@ -1,25 +1,25 @@
 # Uday Kalyan Nuthalapati's Portfolio
 
-![Portfolio Banner] ![image](https://github.com/UdayKalyanN/UdayKalyanN/assets/157516198/12ba80a7-9f8c-4403-ba48-994f905ec9de)
-
+![Portfolio Banner](https://github.com/UdayKalyanN/UdayKalyanN/assets/157516198/12ba80a7-9f8c-4403-ba48-994f905ec9de)
 
 ## 📞 **Contact Information**
 - **E-Mail:** udaykalyannuthalapati1999@gmail.com
 - **Mobile:** +1 940 758 4238
+- **Location:** Denton, TX, USA
+- **LinkedIn:** [Uday Kalyan Nuthalapati](https://www.linkedin.com/in/uday-kalyan-nuthalapati/)
+- **GitHub:** [Uday Kalyan Nuthalapati](https://github.com/UdayKalyanN/UdayKalyanN)
 
 ## 🎯 **Career Objective**
 To contribute my expertise in Information Technology and managerial skills to an organization that fosters growth, while being part of a dynamic team dedicated to organizational success and personal satisfaction.
 
 ## 💻 **Technologies**
-- **Programming Languages:** Java, JavaScript, Python.
-- **Frameworks:** Spring Boot, Spring MVC, ReactJS
-- **Web Technologies:** HTML5, CSS, XML
-- **Database:** Oracle, MySQL, SQL Server, PL/SQL
-- **Tools & Technologies:** Maven, Log4j, JUnit, RESTful API Development
-- **Version Control:** GitHub
+- **Programming Languages:** Java, JavaScript, Python, C#, SQL, HTML, CSS
+- **Frameworks:** Spring Boot, Spring MVC, Spring Cloud, Hibernate, ReactJS, Tailwind CSS
+- **Database:** Oracle, MySQL, SQL Server, PL/SQL, JDBC, Spring Data JPA
+- **Tools & Technologies:** Maven, Log4j, JUnit, Kafka, RESTful API Development, Git, Docker, Kubernetes, Jenkins, GitHub Actions
 - **Operating System:** Windows, Linux, Mac
 - **Cloud Technologies:** AWS, Spring Cloud
-- **Other:** Data Structures with Java, Unix, Shell Scripting, Machine Learning, Apache JMS
+- **Other:** Data Structures with Java, Unix, Shell Scripting, Machine Learning, Apache JMS, Microservices, RESTful APIs, CI/CD, Web Application Development
 
 ## 🚀 **Career Profile**
 - **2 years of experience** in Information Technology, working as an **MS SQL Server Database Developer** with a **Programmer Analyst** role at Cognizant.
@@ -38,37 +38,38 @@ To contribute my expertise in Information Technology and managerial skills to an
 - Proficient in debugging and testing data structure implementations to ensure correctness and reliability.
 
 ## 🛠️ **Experience**
-- **SQL Server Developer** at Cognizant Technology Solutions (October 22nd, 2021, to November 10th, 2023).
+### Programmer Analyst, Cognizant Technology Solutions India
+**October 2021 - November 2023** | Hyderabad, India
+- Delivered top-tier EDI support, enhanced system monitoring, and maintained SLAs, boosting reliability by 30% with 99.9% uptime.
+- Engineered optimized SQL tables and procedures, accelerating query performance and data processing efficiency by 40%.
+- Implemented streamlined TDD and CI workflows, elevating development productivity by 25% and achieving 95% test coverage.
+- Executed rigorous data validation for 837,834 Claims, enhancing integrity by 35% and attaining 99.5% accuracy in data exchanges.
+- Integrated new tables and procedures using DataStage ETL tool, driving a 20% improvement in data integration processes.
 
 ## 📚 **Education**
 - **Master of Science in Computer Science**, University of North Texas (Expected: 2026).
 - **Bachelor of Technology in Computer Science and Engineering**, Bapatla Engineering College (CGPA: 8.28, 2021).
 
 ## 🚀 **Projects**
+### JobHub Platform (2024)
+- Developed a full-stack job search system, boosting user engagement by 40% and job match accuracy by 60%.
+- Implemented OAuth2, cutting unauthorized access by 95%.
+- **Technologies Used:** ReactJS, FastAPI, Tailwind CSS
 
-### Project 1: Cognizant Technology Solutions PVT LTD, HYD, India (Oct 2021 - Nov 2023)
-#### **Roles & Responsibilities:**
-- Designed and developed Java-based web applications using a variety of frameworks and technologies, including Spring Boot, Spring MVC.
-- Worked on front-end development using ReactJS and HTML5, CSS.
-- Developed and deployed microservices using Spring Boot and Spring Cloud.
-- Designed and developed UI using Spring MVC, R, Servlets, JavaScript, Java, CSS, XML, and HTML.
-- Developed and maintained software applications using OOP principles and design patterns.
-- Developed and executed unit tests using JUnit 5.
-- Documented code and procedures to ensure that knowledge was shared and applications could be maintained.
-- Configured session timeout with Spring Boot in the server-side and implemented auto logout Functionality.
-- Used Core Java, Spring Beans with Dependency Injection, and Spring Annotations to implement the business layer.
-- Designed and developed REST-based Microservices using Spring Boot.
-- Developed and consumed Restful web services to accumulate data and generate reports.
+### E-Wallet Application (2024)
+- Architected a microservices platform supporting 10,000+ concurrent users with 99.99% uptime.
+- Integrated ELK stack, slashing error resolution time by 60%.
+- **Technologies Used:** Java, Spring ecosystem, Kafka, Redis, OAuth2
 
-### Project 2: Text Summarization Using T5 Model
-#### **Roles & Responsibilities:**
-- Project Planning and Management.
-- Managing the project team, including assigning tasks, monitoring progress, and ensuring that all team members are working together effectively.
-- Communicating with project stakeholders to ensure that everyone is informed about the project's progress and any issues that arise.
-- Providing technical guidance and support to the project team, including helping team members resolve technical issues and providing input on project design and development.
-- Documenting the project, including creating project plans, design documents, and other project artifacts.
-- Ensuring that the project meets all quality standards and requirements, including testing and debugging the project to identify and fix any issues.
+### Text Summarization Using T5 Model (2020-2021)
+- Crafted an NLP tool processing documents 3x faster with 85% summary accuracy.
+- **Technologies Used:** ML, NLP, Python, PyTorch, BERT, scikit-learn, NLTK
 
-## 🛠️ **Technologies Used**
-- Java, J2EE, JSP, Servlets, Spring MVC, AngularJS, Servlets, JSP, JavaScript, CSS, XML, HTML, Apache, JMS, REST, Oracle, Maven, Log4j, JUnit, GitHub, Windows (Project 1)
-- Python, NLP, Machine Learning (Project 2)
+### Digital Library Management System (2024)
+- Created a library application enhancing book discovery by 70% and user engagement by 55%.
+- **Technologies Used:** Java, Spring MVC, Hibernate, MySQL, JUnit, Mockito, React
+
+## 📜 **Certifications**
+- **Java Backend Development** - Geeks for Geeks
+- **Data Structures and Algorithms** - NextLeap
+- **Software Engineering Job Simulation** - J.P. Morgan
