@@ -1,6 +1,5 @@
 # Uday Kalyan Nuthalapati's Portfolio
 
-![Portfolio Banner](https://github.com/UdayKalyanN/UdayKalyanN/assets/157516198/12ba80a7-9f8c-4403-ba48-994f905ec9de)
 
 ## 📞 **Contact Information**
 - **E-Mail:** udaykalyannuthalapati1999@gmail.com
