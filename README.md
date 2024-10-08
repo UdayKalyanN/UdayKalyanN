@@ -60,7 +60,7 @@ To contribute my expertise in Information Technology and managerial skills to an
 - Architected a microservices platform supporting 10,000+ concurrent users with 99.99% uptime.
 - Integrated ELK stack, slashing error resolution time by 60%.
 - **Technologies Used:** Java, Spring ecosystem, Kafka, Redis, OAuth2
-- **Project Link** - [JobHub](https://github.com/UdayKalyanN/e-wallet-backend)
+- **Project Link** - [E-Wallet](https://github.com/UdayKalyanN/e-wallet-backend)
 
 ### Text Summarization Using T5 Model (2020-2021)
 - Crafted an NLP tool processing documents 3x faster with 85% summary accuracy.
@@ -69,7 +69,7 @@ To contribute my expertise in Information Technology and managerial skills to an
 ### Digital Library Management System (2024)
 - Created a library application enhancing book discovery by 70% and user engagement by 55%.
 - **Technologies Used:** Java, Spring MVC, Hibernate, MySQL, JUnit, Mockito, React
-- **Project Link** - [JobHub](https://github.com/UdayKalyanN/Library-management-system)
+- **Project Link** - [LMS](https://github.com/UdayKalyanN/Library-management-system)
 
 ## 📜 **Certifications**
 - **Java Backend Development** - Geeks for Geeks
