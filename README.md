@@ -54,11 +54,13 @@ To contribute my expertise in Information Technology and managerial skills to an
 - Developed a full-stack job search system, boosting user engagement by 40% and job match accuracy by 60%.
 - Implemented OAuth2, cutting unauthorized access by 95%.
 - **Technologies Used:** ReactJS, FastAPI, Tailwind CSS
+- **Project Link** - [JobHub](https://github.com/UdayKalyanN/JobHub)
 
 ### E-Wallet Application (2024)
 - Architected a microservices platform supporting 10,000+ concurrent users with 99.99% uptime.
 - Integrated ELK stack, slashing error resolution time by 60%.
 - **Technologies Used:** Java, Spring ecosystem, Kafka, Redis, OAuth2
+- **Project Link** - [JobHub](https://github.com/UdayKalyanN/e-wallet-backend)
 
 ### Text Summarization Using T5 Model (2020-2021)
 - Crafted an NLP tool processing documents 3x faster with 85% summary accuracy.
@@ -67,6 +69,7 @@ To contribute my expertise in Information Technology and managerial skills to an
 ### Digital Library Management System (2024)
 - Created a library application enhancing book discovery by 70% and user engagement by 55%.
 - **Technologies Used:** Java, Spring MVC, Hibernate, MySQL, JUnit, Mockito, React
+- **Project Link** - [JobHub](https://github.com/UdayKalyanN/Library-management-system)
 
 ## 📜 **Certifications**
 - **Java Backend Development** - Geeks for Geeks
