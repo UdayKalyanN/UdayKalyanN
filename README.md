@@ -45,6 +45,13 @@ To contribute my expertise in Information Technology and managerial skills to an
 - Executed rigorous data validation for 837,834 Claims, enhancing integrity by 35% and attaining 99.5% accuracy in data exchanges.
 - Integrated new tables and procedures using DataStage ETL tool, driving a 20% improvement in data integration processes.
 
+### Teaching Assistant, University of North Texas, United States
+**August 2024 - Till Date** | Denton, Texas, United States
+- Assist in teaching and explaining complex algorithmic concepts to graduate students
+- Grade assignments and provide constructive feedback to help students improve their understanding
+- Conduct office hours to provide additional support and clarification on course materials
+- Collaborate with the professor to develop and refine course content and materials
+
 ## 📚 **Education**
 - **Master of Science in Computer Science**, University of North Texas (Expected: 2026).
 - **Bachelor of Technology in Computer Science and Engineering**, Bapatla Engineering College (CGPA: 8.28, 2021).
