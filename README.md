@@ -53,7 +53,7 @@ To contribute my expertise in Information Technology and managerial skills to an
 - Collaborate with the professor to develop and refine course content and materials
 
 ## 📚 **Education**
-- **Master of Science in Computer Science**, University of North Texas (Expected: 2026).
+- **Master of Science in Computer Science**, University of North Texas (Expected: 2025).
 - **Bachelor of Technology in Computer Science and Engineering**, Bapatla Engineering College (CGPA: 8.28, 2021).
 
 ## 🚀 **Projects**
