@@ -78,6 +78,13 @@ To contribute my expertise in Information Technology and managerial skills to an
 - **Technologies Used:** Java, Spring MVC, Hibernate, MySQL, JUnit, Mockito, React
 - **Project Link** - [LMS](https://github.com/UdayKalyanN/Library-management-system)
 
+### Distributed Retail Analytics Platform (2024)
+- Designed and implemented a distributed analytics platform processing retail transactions.
+- Developed real-time data ingestion pipeline handling 100,000+ daily transactions with automated data routing.
+- Created optimized data models and RESTful APIs for monitoring sales metrics and product performance.
+- **Technologies Used:** Python, Docker, Apache Kafka, REST APIs, Apache Cassandra, Prometheus, Grafana, CQL
+- **Project Link** - [DRS](https://github.com/UdayKalyanN/distrubuted_database)
+
 ## 📜 **Certifications**
 - **Java Backend Development** - Geeks for Geeks
 - **Data Structures and Algorithms** - NextLeap
