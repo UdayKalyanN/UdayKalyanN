@@ -89,3 +89,4 @@ To contribute my expertise in Information Technology and managerial skills to an
 - **Java Backend Development** - Geeks for Geeks
 - **Data Structures and Algorithms** - NextLeap
 - **Software Engineering Job Simulation** - J.P. Morgan
+- **Microsoft Azure Fundamentals** - Microsoft
