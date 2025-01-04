@@ -13,8 +13,8 @@ To contribute my expertise in Information Technology and managerial skills to an
 
 ## 💻 **Technologies**
 - **Programming Languages:** Java, JavaScript, Python, C#, SQL, HTML, CSS
-- **Frameworks:** Spring Boot, Spring MVC, Spring Cloud, Hibernate, ReactJS, Tailwind CSS
-- **Database:** Oracle, MySQL, SQL Server, PL/SQL, JDBC, Spring Data JPA
+- **Frameworks:** Spring Boot, Spring MVC, Spring Cloud, Hibernate
+- **Database:** Oracle, MySQL, SQL Server, PL/SQL, JDBC, Spring Data JPA, CQL, Apache Cassandra
 - **Tools & Technologies:** Maven, Log4j, JUnit, Kafka, RESTful API Development, Git, Docker, Kubernetes, Jenkins, GitHub Actions
 - **Operating System:** Windows, Linux, Mac
 - **Cloud Technologies:** AWS, Spring Cloud
@@ -22,8 +22,6 @@ To contribute my expertise in Information Technology and managerial skills to an
 
 ## 🚀 **Career Profile**
 - **2 years of experience** in Information Technology, working as an **MS SQL Server Database Developer** with a **Programmer Analyst** role at Cognizant.
-- Proficient in Java, J2EE, Servlets, and JSP for backend development.
-- Experienced in front-end technologies such as ReactJS, HTML5, CSS, and JavaScript.
 - Skilled in designing and developing RESTful microservices using Spring Boot and Spring Cloud.
 - Familiar with Object-Oriented Design (OOD) principles and design patterns.
 - Competent in unit testing with JUnit 5 and documentation of code and procedures.
